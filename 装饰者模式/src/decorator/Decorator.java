@@ -1,6 +1,6 @@
 package decorator;
 
-import coffeebar.Drink;
+import component.Drink;
 
 /**
  * @author ZhangHao

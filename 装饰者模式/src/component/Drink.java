@@ -1,4 +1,4 @@
-package coffeebar;
+package component;
 
 /**
  * @author ZhangHao

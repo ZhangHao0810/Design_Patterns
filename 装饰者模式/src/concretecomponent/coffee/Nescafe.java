@@ -1,4 +1,4 @@
-package coffee;
+package concretecomponent.coffee;
 
 /**
  * @author ZhangHao

@@ -1,7 +1,8 @@
 package coffeebar;
 
-import coffee.G7;
-import coffee.Nescafe;
+import component.Drink;
+import concretecomponent.coffee.G7;
+import concretecomponent.coffee.Nescafe;
 import decorator.Chocolate;
 import decorator.Milk;
 

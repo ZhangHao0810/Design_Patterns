@@ -1,6 +1,6 @@
-package coffee;
+package concretecomponent.coffee;
 
-import coffeebar.Drink;
+import component.Drink;
 
 /**
  * @author ZhangHao
