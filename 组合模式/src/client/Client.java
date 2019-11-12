@@ -45,7 +45,6 @@ public class Client {
        /** 2019/11/4 9:43
          * 将两个学院加入到学校中
         */
-
         university1.add(computerCollege);
         university1.add(softwareCollege);
 
