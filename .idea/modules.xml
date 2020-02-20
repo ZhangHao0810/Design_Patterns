@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/工厂模式/工厂模式.iml" filepath="$PROJECT_DIR$/工厂模式/工厂模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/[模式挖掘用]设计模式标准代码/[模式挖掘用]设计模式标准代码.iml" filepath="$PROJECT_DIR$/[模式挖掘用]设计模式标准代码/[模式挖掘用]设计模式标准代码.iml" />
+      <module fileurl="file://$PROJECT_DIR$/三大原则/三大原则.iml" filepath="$PROJECT_DIR$/三大原则/三大原则.iml" />
+      <module fileurl="file://$PROJECT_DIR$/代理模式/代理模式.iml" filepath="$PROJECT_DIR$/代理模式/代理模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/原型模式/原型模式.iml" filepath="$PROJECT_DIR$/原型模式/原型模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/工厂方法模式/工厂方法模式.iml" filepath="$PROJECT_DIR$/工厂方法模式/工厂方法模式.iml" />
       <module fileurl="file://$PROJECT_DIR$/策略模式/策略模式.iml" filepath="$PROJECT_DIR$/策略模式/策略模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/简单工厂模式/简单工厂模式.iml" filepath="$PROJECT_DIR$/简单工厂模式/简单工厂模式.iml" />
       <module fileurl="file://$PROJECT_DIR$/组合模式/组合模式.iml" filepath="$PROJECT_DIR$/组合模式/组合模式.iml" />
       <module fileurl="file://$PROJECT_DIR$/经典单例模式/经典单例模式.iml" filepath="$PROJECT_DIR$/经典单例模式/经典单例模式.iml" />
       <module fileurl="file://$PROJECT_DIR$/装饰者模式/装饰者模式.iml" filepath="$PROJECT_DIR$/装饰者模式/装饰者模式.iml" />
